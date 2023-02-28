@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![github-contribution-snake](https://raw.githubusercontent.com/Caophuoclong/caophuoclong/output/github-contribution-grid-snake.svg)
 <!--
 **Caophuoclong/caophuoclong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
